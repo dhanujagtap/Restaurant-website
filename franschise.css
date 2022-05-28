@@ -1,0 +1,65 @@
+body{background: url('imgs/background 3.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    overflow-x: hidden;
+    @media (max-width: 100px)
+        
+}
+.mlog{
+    position: absolute;
+width: 129px;
+height: 89px;
+left: 5%;
+
+}
+.log{
+    position: absolute;
+width: 497px;
+height: 52px;
+
+font-family: 'Berkshire Swash';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 60px;
+text-align: center;
+
+color: #490000;
+left: 13%;
+}
+.para{
+    position: absolute;
+width: 875px;
+height: 164px;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 26px;
+text-align: center;
+
+color: #490000;
+margin: 5%;
+left: 9%;
+}
+.img{
+    position: absolute;
+width: 150px;
+height: 150px;
+
+}
+.i{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 30%;
+    
+}
+.m{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 60%;
+}

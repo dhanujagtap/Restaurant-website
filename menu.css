@@ -1,0 +1,208 @@
+body{background: url('imgs/background 3.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    overflow-x: hidden;
+    @media (max-width: 100px)
+        
+
+}
+.heading{
+    position: absolute;
+width: 150px;
+height: 45px;
+
+font-family: 'Berkshire Swash';
+font-style: normal;
+font-weight: 300;
+font-size: 30px;
+line-height: 40px;
+left: 10%;
+/* identical to box height */
+
+
+color: #000000;
+}
+.chilli{
+    position: absolute;
+width: 100px;
+height: 144px;
+left: 35%;
+display: flex;
+margin: 23px;
+
+}
+.para{
+    position: absolute;
+width: 948px;
+height: 180px;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+margin: 90px;
+
+}
+.garlic{
+    position: absolute;
+width: 483.34px;
+height: 499.65px;
+left: 60%;
+margin: 90px;
+}
+.main{
+    position: absolute;
+width: 571px;
+height: 377px;
+    margin: 220px;
+
+
+}
+.massam{
+    position: absolute;
+width: 312px;
+height: 50px;
+
+font-family: 'Berkshire Swash';
+font-style: normal;
+font-weight: 300;
+font-size: 38px;
+line-height: 50px;
+margin-top: 13%;
+left: 25%;
+
+
+color: #913C33;
+
+}
+.paregraph{
+
+    position: absolute;
+width: 465px;
+height: 90px;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+
+color: #000000;
+margin: 280px;
+left: 10%;
+}
+.headline{
+    position: absolute;
+width: 446px;
+height: 60px;
+
+font-family: 'Berkshire Swash';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 60px;
+right: 20%;
+
+
+color: #913C33;
+}
+.paragrah2{
+    position: absolute;
+width: 552px;
+height: 100px;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+margin: 80px;
+left: 30px;
+color: #000000;
+}
+.group{
+    position: absolute;
+    width: 312px;
+    height: 50px;
+    
+
+    line-height: 50px;
+
+right: 80%;
+
+}
+.pic3{
+    position: absolute;
+width: 280px;
+height: 291px;
+margin-top: 30%;
+left: 190%;
+}
+.grop{
+    position: absolute;
+    width: 250px;
+height: 150px;
+right: 55%;
+margin: 40%;
+}
+.p{
+    position: absolute;
+width: 453px;
+height: 60px;
+
+font-family: 'Berkshire Swash';
+font-style: normal;
+font-weight: 300;
+font-size: 38px;
+line-height: 50px;
+margin: 40%;
+right: -20%;
+
+
+
+color: #913C33;
+}
+.parag{position: absolute;
+width: 540px;
+height: 90px;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+margin: 60%;
+color: #000000;
+
+}
+.react{
+    box-sizing: border-box;
+
+position: absolute;
+width: 202px;
+height: 59px;
+
+border: 3px solid #771D17;
+border-radius: 50px;
+margin: 99%;
+}
+.order{
+    position: absolute;
+width: 117px;
+height: 26px;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 900;
+font-size: 21px;
+line-height: 26px;
+
+color: #771D17;
+left: 3%;
+
+margin: 59%;
+}

@@ -1,0 +1,68 @@
+
+ 
+
+    
+
+
+
+
+
+body{background: url('imgs/background\ 3.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    overflow-x: hidden;
+
+}
+
+.picture{
+    position: absolute;
+width: 350px;
+height: 60px;
+
+    
+
+font-family: 'Berkshire Swash';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 60px;
+left: 12%;
+margin: 50px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.pict{
+position: absolute;
+width: 180px;
+height: 180px;
+display: flex;
+}
+.p{
+    position: absolute;
+width: 660px;
+height: 315px;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 140%;
+margin: 140px;
+
+
+
+color: #771D17;
+}
+.chef img{
+    position: absolute;
+    width: 35%;
+    height: 40%;
+    right: 15px;
+    top: 90px;
+    }
+
+ 

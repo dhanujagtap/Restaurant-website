@@ -1,0 +1,99 @@
+.contact{
+    position: absolute;
+width: 1440px;
+height: 485px;
+}
+.mlogo{
+    position: absolute;
+width: 265px;
+height: 343px;
+}
+.heding{
+    position: absolute;
+width: 252px;
+height: 40px;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 40px;
+
+color: #FFFFFF;
+left: 30%;
+margin: 120px;
+}
+.a{
+    position: absolute;
+width: 53px;
+height: 26px;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 26px;
+left: 36%;
+margin: 130px;
+color: #FFFFFF;
+
+}
+.clock{
+    position: absolute;
+width: 40px;
+height: 40px;
+left: 50%;
+margin: 120px;
+}
+.num{
+    position: absolute;
+    width: 139px;
+    height: 30px;
+    
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    margin: 8%;
+    left: 55%;
+    
+    color: #FFFFFF;
+    
+}
+.house{
+    position: absolute;
+width: 40px;
+height: 40px;
+margin: 11%;
+    left: 47%;
+}
+
+.lorem{
+    position: absolute;
+width: 306px;
+height: 90px;
+
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+margin: 11%;
+    left: 52%;
+}
+.facebook{
+    position: absolute;
+width: 40px;
+height: 40px;
+margin: 18%;
+    left: 40%
+
+}
+.insta{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    margin: 18%;
+    left: 44%
+}
